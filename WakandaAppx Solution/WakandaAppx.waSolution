@@ -1,0 +1,12 @@
+﻿<?xml version="1.0" encoding="UTF-8"?><solution>
+	<project path="../School-Management Project/School-Management.waProject" startupProject="true"/>
+	<project path="../videoDemo/videoDemo.waProject"/>
+	<project path="../WakandaDB-Academy/WakandaDB-Academy.waProject"/>
+	<project path="../wak5-crm/wak5-crm.waProject"/>
+	<file path="./Settings.waSettings">
+		<tag name="settings"/>
+	</file>
+	<file path="./Directory.waDirectory">
+		<tag name="directory"/>
+	</file>
+</solution>
