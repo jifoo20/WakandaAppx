@@ -15,3 +15,4 @@ model	= {};
 		include(modelFolder + file + extension);
 	}
 })();
+include("./Model/TimeTable/TimeTable-methods.js");
